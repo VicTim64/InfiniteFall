@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LiamPlatForm-Window\destroyWindow.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Coin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BackgroundMover.cs" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\LiamPlatForm-Window\destroyWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LiamRagDoll\limbBehaviour.cs" Line="11" Column="20" />
+      <File FileName="Assets\Scripts\LiamRagDoll\headBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PC.cs" Line="150" Column="5" />
+      <File FileName="Assets\Scripts\Menu\ContinueButton_1.cs" Line="27" Column="2" />
+      <File FileName="Assets\Scripts\LiamPlatForm-Window\killParticles.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu\PlayButton.cs" Line="13" Column="33" />
+      <File FileName="Assets\Scripts\CameraMover.cs" Line="14" Column="1" />
+      <File FileName="Assets\Scripts\Scroll.cs" Line="23" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
